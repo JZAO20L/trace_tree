@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+                <script type="text/javascript" src="https://assets.pyecharts.org/assets/v5/echarts.min.js"></script>
+
+    
+</head>
+<body >
+    <div id="3447e9e3099b4f4d80f06058fb8af0be" class="chart-container" style="width:1000px; height:600px; "></div>
+    <script>
+        var chart_3447e9e3099b4f4d80f06058fb8af0be = echarts.init(
+            document.getElementById('3447e9e3099b4f4d80f06058fb8af0be'), 'white', {renderer: 'canvas'});
+        var option_3447e9e3099b4f4d80f06058fb8af0be = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "aria": {
+        "enabled": false
+    },
+    "color": [
+        "#5470c6",
+        "#91cc75",
+        "#fac858",
+        "#ee6666",
+        "#73c0de",
+        "#3ba272",
+        "#fc8452",
+        "#9a60b4",
+        "#ea7ccc"
+    ],
+    "series": [
+        {
+            "type": "sankey",
+            "data": [
+                {
+                    "name": "evaluation"
+                },
+                {
+                    "name": "editing_attack"
+                },
+                {
+                    "name": "prompt_injection_attack"
+                },
+                {
+                    "name": "safety_alignment"
+                },
+                {
+                    "name": "backdoor_attack"
+                },
+                {
+                    "name": "prompt_injection_defense"
+                },
+                {
+                    "name": "backdoor_defense"
+                },
+                {
+                    "name": "2024"
+                },
+                {
+                    "name": "2023"
+                },
+                {
+                    "name": "jailbreak_defense"
+                },
+                {
+                    "name": "jailbreak_attack"
+                },
+                {
+                    "name": "data_extraction_attack"
+                },
+                {
+                    "name": "adversarial_defense"
+                },
+                {
+                    "name": "2025"
+                },
+                {
+                    "name": "adversarial_attack"
+                }
+            ],
+            "links": [
+                {
+                    "source": "2023",
+                    "target": "evaluation",
+                    "value": 1
+                },
+                {
+                    "source": "2023",
+                    "target": "jailbreak_attack",
+                    "value": 2
+                },
+                {
+                    "source": "2023",
+                    "target": "prompt_injection_attack",
+                    "value": 2
+                },
+                {
+                    "source": "2023",
+                    "target": "safety_alignment",
+                    "value": 2
+                },
+                {
+                    "source": "2024",
+                    "target": "adversarial_attack",
+                    "value": 8
+                },
+                {
+                    "source": "2024",
+                    "target": "adversarial_defense",
+                    "value": 10
+                },
+                {
+                    "source": "2024",
+                    "target": "backdoor_attack",
+                    "value": 1
+                },
+                {
+                    "source": "2024",
+                    "target": "backdoor_defense",
+                    "value": 1
+                },
+                {
+                    "source": "2024",
+                    "target": "data_extraction_attack",
+                    "value": 1
+                },
+                {
+                    "source": "2024",
+                    "target": "editing_attack",
+                    "value": 1
+                },
+                {
+                    "source": "2024",
+                    "target": "evaluation",
+                    "value": 10
+                },
+                {
+                    "source": "2024",
+                    "target": "jailbreak_attack",
+                    "value": 80
+                },
+                {
+                    "source": "2024",
+                    "target": "jailbreak_defense",
+                    "value": 26
+                },
+                {
+                    "source": "2024",
+                    "target": "prompt_injection_attack",
+                    "value": 17
+                },
+                {
+                    "source": "2024",
+                    "target": "prompt_injection_defense",
+                    "value": 12
+                },
+                {
+                    "source": "2024",
+                    "target": "safety_alignment",
+                    "value": 58
+                },
+                {
+                    "source": "2025",
+                    "target": "adversarial_attack",
+                    "value": 3
+                },
+                {
+                    "source": "2025",
+                    "target": "adversarial_defense",
+                    "value": 6
+                },
+                {
+                    "source": "2025",
+                    "target": "backdoor_attack",
+                    "value": 1
+                },
+                {
+                    "source": "2025",
+                    "target": "evaluation",
+                    "value": 3
+                },
+                {
+                    "source": "2025",
+                    "target": "jailbreak_attack",
+                    "value": 43
+                },
+                {
+                    "source": "2025",
+                    "target": "jailbreak_defense",
+                    "value": 29
+                },
+                {
+                    "source": "2025",
+                    "target": "prompt_injection_attack",
+                    "value": 4
+                },
+                {
+                    "source": "2025",
+                    "target": "prompt_injection_defense",
+                    "value": 4
+                },
+                {
+                    "source": "2025",
+                    "target": "safety_alignment",
+                    "value": 29
+                }
+            ],
+            "left": "5%",
+            "top": "5%",
+            "right": "20%",
+            "bottom": "5%",
+            "nodeWidth": 20,
+            "nodeGap": 10,
+            "nodeAlign": "justify",
+            "orient": "horizontal",
+            "draggable": true,
+            "label": {
+                "show": true,
+                "position": "right",
+                "margin": 8,
+                "valueAnimation": false
+            },
+            "lineStyle": {
+                "show": true,
+                "width": 1,
+                "opacity": 0.2,
+                "curveness": 0.5,
+                "type": "solid",
+                "color": "source"
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                ""
+            ],
+            "selected": {},
+            "show": true,
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14,
+            "backgroundColor": "transparent",
+            "borderColor": "#ccc",
+            "borderRadius": 0,
+            "pageButtonItemGap": 5,
+            "pageButtonPosition": "end",
+            "pageFormatter": "{current}/{total}",
+            "pageIconColor": "#2f4554",
+            "pageIconInactiveColor": "#aaa",
+            "pageIconSize": 15,
+            "animationDurationUpdate": 800,
+            "selector": false,
+            "selectorPosition": "auto",
+            "selectorItemGap": 7,
+            "selectorButtonGap": 10
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "enterable": false,
+        "confine": false,
+        "appendToBody": false,
+        "transitionDuration": 0.4,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5,
+        "order": "seriesAsc"
+    },
+    "title": [
+        {
+            "show": true,
+            "text": "Publication Year \u2192 Category Flow",
+            "target": "blank",
+            "subtarget": "blank",
+            "padding": 5,
+            "itemGap": 10,
+            "textAlign": "auto",
+            "textVerticalAlign": "auto",
+            "triggerEvent": false
+        }
+    ]
+};
+        chart_3447e9e3099b4f4d80f06058fb8af0be.setOption(option_3447e9e3099b4f4d80f06058fb8af0be);
+    </script>
+</body>
+</html>

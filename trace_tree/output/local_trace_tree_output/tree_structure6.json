@@ -1,0 +1,2079 @@
+{
+    "name": "A Causal Explainable Guardrails for Large Language Models",
+    "data": {
+        "index": 2,
+        "title": "A Causal Explainable Guardrails for Large Language Models",
+        "publication_date": "2024-10-18",
+        "tags": [
+            "alignment",
+            "hallucination"
+        ]
+    },
+    "children": [
+        {
+            "name": "Advancing Adversarial Suffix Transfer Learning on Aligned Large Language Models",
+            "data": {
+                "index": 6,
+                "title": "Advancing Adversarial Suffix Transfer Learning on Aligned Large Language Models",
+                "publication_date": "2024-10-05",
+                "tags": [
+                    "jailbreak",
+                    "alignment",
+                    "prompt-injection"
+                ]
+            },
+            "children": [
+                {
+                    "name": "A Jailbroken GenAI Model Can Cause Substantial Harm: GenAI-powered Applications are Vulnerable to PromptWares",
+                    "data": {
+                        "index": 3,
+                        "title": "A Jailbroken GenAI Model Can Cause Substantial Harm: GenAI-powered Applications are Vulnerable to PromptWares",
+                        "publication_date": "2024-08-09",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs",
+                    "data": {
+                        "index": 5,
+                        "title": "AdaPPA: Adaptive Position Pre-Fill Jailbreak Attack Approach Targeting LLMs",
+                        "publication_date": "2024-09-11",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape",
+                    "data": {
+                        "index": 20,
+                        "title": "An Analysis of Recent Advances in Deepfake Image Detection in an Evolving Threat Landscape",
+                        "publication_date": "2024-04-24",
+                        "tags": [
+                            "jailbreak"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Applying Pre-trained Multilingual BERT in Embeddings for Improved Malicious Prompt Injection Attacks Detection",
+                    "data": {
+                        "index": 22,
+                        "title": "Applying Pre-trained Multilingual BERT in Embeddings for Improved Malicious Prompt Injection Attacks Detection",
+                        "publication_date": "2023-12-01",
+                        "tags": [
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Automatic Jailbreaking of the Text-to-Image Generative AI Systems",
+                    "data": {
+                        "index": 34,
+                        "title": "Automatic Jailbreaking of the Text-to-Image Generative AI Systems",
+                        "publication_date": "2024-05-28",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Can Large Language Models Automatically Jailbreak GPT-4V?",
+                    "data": {
+                        "index": 49,
+                        "title": "Can Large Language Models Automatically Jailbreak GPT-4V?",
+                        "publication_date": "2024-08-23",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Can LLMs Deeply Detect Complex Malicious Queries? A Framework for Jailbreaking via Obfuscating Intent",
+                    "data": {
+                        "index": 51,
+                        "title": "Can LLMs Deeply Detect Complex Malicious Queries? A Framework for Jailbreaking via Obfuscating Intent",
+                        "publication_date": "2024-05-07",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM",
+                    "data": {
+                        "index": 53,
+                        "title": "Chain of Attack: a Semantic-Driven Contextual Multi-Turn attacker for LLM",
+                        "publication_date": "2024-05-09",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Continuous Embedding Attacks via Clipped Inputs in Jailbreaking Large Language Models",
+                    "data": {
+                        "index": 57,
+                        "title": "Continuous Embedding Attacks via Clipped Inputs in Jailbreaking Large Language Models",
+                        "publication_date": "2024-07-16",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Dataset and Lessons Learned from the 2024 SaTML LLM Capture-the-Flag Competition",
+                    "data": {
+                        "index": 64,
+                        "title": "Dataset and Lessons Learned from the 2024 SaTML LLM Capture-the-Flag Competition",
+                        "publication_date": "2024-06-12",
+                        "tags": [
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks",
+                    "data": {
+                        "index": 83,
+                        "title": "Emerging Vulnerabilities in Frontier Models: Multi-Turn Jailbreak Attacks",
+                        "publication_date": "2024-08-29",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection",
+                    "data": {
+                        "index": 84,
+                        "title": "Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection",
+                        "publication_date": "2024-08-07",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "FLIPATTACK: Jailbreak LLMs Via Flipping",
+                    "data": {
+                        "index": 100,
+                        "title": "FLIPATTACK: Jailbreak LLMs Via Flipping",
+                        "publication_date": "2024-10-02",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "GenTel-Safe: A Unified Benchmark and Shielding Framework for Defending Against Prompt Injection Attacks",
+                    "data": {
+                        "index": 103,
+                        "title": "GenTel-Safe: A Unified Benchmark and Shielding Framework for Defending Against Prompt Injection Attacks",
+                        "publication_date": "2024-09-29",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment",
+                    "data": {
+                        "index": 107,
+                        "title": "h4rm3l: A Dynamic Benchmark of Composable Jailbreak Attacks for LLM Safety Assessment",
+                        "publication_date": "2024-09-13",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Hacc-Man: An Arcade Game for Jailbreaking LLMs",
+                    "data": {
+                        "index": 108,
+                        "title": "Hacc-Man: An Arcade Game for Jailbreaking LLMs",
+                        "publication_date": "2024-07-03",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt",
+                    "data": {
+                        "index": 135,
+                        "title": "Jailbreak Vision Language Models via Bi-Modal Adversarial Prompt",
+                        "publication_date": "2024-07-01",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models",
+                    "data": {
+                        "index": 142,
+                        "title": "Jailbreaking Prompt Attack: A Controllable Adversarial Attack against Diffusion Models",
+                        "publication_date": "2024-09-04",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Jailbreaking Text-to-Image Models with LLM-Based Agents",
+                    "data": {
+                        "index": 143,
+                        "title": "Jailbreaking Text-to-Image Models with LLM-Based Agents",
+                        "publication_date": "2024-09-09",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Knowledge-to-Jailbreak: One Knowledge Point Worth One Attack",
+                    "data": {
+                        "index": 148,
+                        "title": "Knowledge-to-Jailbreak: One Knowledge Point Worth One Attack",
+                        "publication_date": "2024-06-17",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation",
+                    "data": {
+                        "index": 156,
+                        "title": "Lockpicking LLMs: A Logit-Based Jailbreak Using Token-level Manipulation",
+                        "publication_date": "2024-06-19",
+                        "tags": [
+                            "jailbreak"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models",
+                    "data": {
+                        "index": 160,
+                        "title": "Medical MLLM is Vulnerable: Cross-Modality Jailbreak and Mismatched Attacks on Medical Multimodal Large Language Models",
+                        "publication_date": "2024-08-21",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks",
+                    "data": {
+                        "index": 172,
+                        "title": "MoJE: Mixture of Jailbreak Experts, Naive Tabular Classifiers as Guard for Prompt Attacks",
+                        "publication_date": "2024-10-04",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Poisoned LangChain: Jailbreak LLMs by LangChain",
+                    "data": {
+                        "index": 186,
+                        "title": "Poisoned LangChain: Jailbreak LLMs by LangChain",
+                        "publication_date": "2024-06-26",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Trust No AI: Prompt Injection Along The CIA Security Triad",
+                    "data": {
+                        "index": 197,
+                        "title": "Trust No AI: Prompt Injection Along The CIA Security Triad",
+                        "publication_date": "2024-01-01",
+                        "tags": [
+                            "prompt-injection",
+                            "jailbreak"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "PROMPT FUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs",
+                    "data": {
+                        "index": 199,
+                        "title": "PROMPT FUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs",
+                        "publication_date": "2024-09-23",
+                        "tags": [
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent",
+                    "data": {
+                        "index": 209,
+                        "title": "RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent",
+                        "publication_date": "2024-07-23",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Systematically Analyzing Prompt Injection Vulnerabilities in Diverse LLM Architectures",
+                    "data": {
+                        "index": 249,
+                        "title": "Systematically Analyzing Prompt Injection Vulnerabilities in Diverse LLM Architectures",
+                        "publication_date": "2024-10-01",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking",
+                    "data": {
+                        "index": 266,
+                        "title": "Unleashing Worms and Extracting Data: Escalating the Outcome of Attacks against RAG-based Inference in Scale and Severity Using Jailbreaking",
+                        "publication_date": "2024-09-12",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer",
+                    "data": {
+                        "index": 267,
+                        "title": "Unlocking Adversarial Suffix Optimization Without Affirmative Phrases: Efficient Black-box Jailbreaking via LLM as Optimizer",
+                        "publication_date": "2024-08-21",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection",
+                    "data": {
+                        "index": 272,
+                        "title": "Virtual Context: Enhancing Jailbreak Attacks with Special Token Injection",
+                        "publication_date": "2024-07-11",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character",
+                    "data": {
+                        "index": 273,
+                        "title": "Visual-RolePlay: Universal Jailbreak Attack on MultiModal Large Language Models via Role-playing Image Character",
+                        "publication_date": "2024-06-12",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data",
+                    "data": {
+                        "index": 274,
+                        "title": "VLMGuard: Defending VLMs against Malicious Prompts via Unlabeled Data",
+                        "publication_date": "2024-10-01",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "Voice Jailbreak Attacks Against GPT-4o",
+                    "data": {
+                        "index": 275,
+                        "title": "Voice Jailbreak Attacks Against GPT-4o",
+                        "publication_date": "2024-05-29",
+                        "tags": [
+                            "jailbreak"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "PromptShield: Deployable Detection for Prompt Injection Attacks",
+                    "data": {
+                        "index": 302,
+                        "title": "PromptShield: Deployable Detection for Prompt Injection Attacks",
+                        "publication_date": "2024-01-01",
+                        "tags": [
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "'Do as I say not as I do': A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs",
+                    "data": {
+                        "index": 315,
+                        "title": "'Do as I say not as I do': A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs",
+                        "publication_date": "2018-02-01",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Adversarial Search Engine Optimization for Large Language Models",
+            "data": {
+                "index": 8,
+                "title": "Adversarial Search Engine Optimization for Large Language Models",
+                "publication_date": "2024-07-02",
+                "tags": [
+                    "prompt-injection",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs",
+            "data": {
+                "index": 9,
+                "title": "Adversarial Tuning: Defending Against Jailbreak Attacks for LLMs",
+                "publication_date": "2024-06-07",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Adversaries Can Misuse Combinations of Safe Models",
+            "data": {
+                "index": 10,
+                "title": "Adversaries Can Misuse Combinations of Safe Models",
+                "publication_date": "2024-07-01",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs",
+            "data": {
+                "index": 11,
+                "title": "AdvPrompter: Fast Adaptive Adversarial Prompting for LLMs",
+                "publication_date": "2024-04-29",
+                "tags": [
+                    "jailbreak",
+                    "alignment",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts",
+            "data": {
+                "index": 13,
+                "title": "AEGIS: Online Adaptive AI Content Safety Moderation with Ensemble of LLM Experts",
+                "publication_date": "2024-09-11",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "AI Risk Management Should Incorporate Both Safety and Security",
+            "data": {
+                "index": 16,
+                "title": "AI Risk Management Should Incorporate Both Safety and Security",
+                "publication_date": "2024-05-29",
+                "tags": [
+                    "alignment",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "ALERT: A Comprehensive Benchmark for Assessing Large Language Models’ Safety through Red Teaming",
+            "data": {
+                "index": 17,
+                "title": "ALERT: A Comprehensive Benchmark for Assessing Large Language Models’ Safety through Red Teaming",
+                "publication_date": "2024-06-24",
+                "tags": [
+                    "alignment",
+                    "jailbreak",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Aligners: Decoupling LLMs and Alignment",
+            "data": {
+                "index": 18,
+                "title": "Aligners: Decoupling LLMs and Alignment",
+                "publication_date": "2024-10-04",
+                "tags": [
+                    "alignment",
+                    "hallucination"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning",
+            "data": {
+                "index": 21,
+                "title": "Antidote: Post-fine-tuning Safety Alignment for Large Language Models against Harmful Fine-tuning",
+                "publication_date": "2024-09-03",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Are AI-Generated Text Detectors Robust to Adversarial Perturbations?",
+            "data": {
+                "index": 23,
+                "title": "Are AI-Generated Text Detectors Robust to Adversarial Perturbations?",
+                "publication_date": "2024-06-26",
+                "tags": [
+                    "alignment",
+                    "hallucination"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Are PPO-ed Language Models Hackable?",
+            "data": {
+                "index": 24,
+                "title": "Are PPO-ed Language Models Hackable?",
+                "publication_date": "2024-05-28",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "ARGS: Alignment as Reward-Guided Search",
+            "data": {
+                "index": 26,
+                "title": "ARGS: Alignment as Reward-Guided Search",
+                "publication_date": "2024-04-10",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts",
+            "data": {
+                "index": 27,
+                "title": "Arondight: Red Teaming Large Vision Language Models with Auto-generated Multi-modal Jailbreak Prompts",
+                "publication_date": "2024-07-21",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "A safety realignment framework via subspace-oriented model fusion for large language models",
+            "data": {
+                "index": 28,
+                "title": "A safety realignment framework via subspace-oriented model fusion for large language models",
+                "publication_date": "2024-05-15",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens",
+            "data": {
+                "index": 32,
+                "title": "AutoJailbreak: Exploring Jailbreak Attacks and Defenses through a Dependency Lens",
+                "publication_date": "2024-06-06",
+                "tags": [
+                    "jailbreak",
+                    "alignment",
+                    "hallucination",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Badllama 3: removing safety finetuning from Llama 3 in minutes",
+            "data": {
+                "index": 36,
+                "title": "Badllama 3: removing safety finetuning from Llama 3 in minutes",
+                "publication_date": "2024-07-01",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "BELLS: A Framework Towards Future Proof Benchmarks for the Evaluation of LLM Safeguards",
+            "data": {
+                "index": 39,
+                "title": "BELLS: A Framework Towards Future Proof Benchmarks for the Evaluation of LLM Safeguards",
+                "publication_date": "2024-06-03",
+                "tags": [
+                    "alignment",
+                    "jailbreak",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Benchmarking Llama2, Mistral, Gemma and GPT for Factuality, Toxicity, Bias and Propensity for Hallucinations",
+            "data": {
+                "index": 40,
+                "title": "Benchmarking Llama2, Mistral, Gemma and GPT for Factuality, Toxicity, Bias and Propensity for Hallucinations",
+                "publication_date": "2024-04-15",
+                "tags": [
+                    "alignment",
+                    "hallucination",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Beyond Imitation: Leveraging Fine-Grained Quality Signals for Alignment",
+            "data": {
+                "index": 41,
+                "title": "Beyond Imitation: Leveraging Fine-Grained Quality Signals for Alignment",
+                "publication_date": "2023-12-06",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints",
+            "data": {
+                "index": 42,
+                "title": "Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints",
+                "publication_date": "2023-10-25",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Moralized” Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks",
+            "data": {
+                "index": 43,
+                "title": "Moralized” Multi-Step Jailbreak Prompts: Black-Box Testing of Guardrails in Large Language Models for Verbal Attacks",
+                "publication_date": "2023-11-16",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "BOOSTER: TACKLING HARMFUL FINE-TUNING FOR LARGE LANGUAGE MODELS VIA ATTENUATING HARMFUL PERTURBATION",
+            "data": {
+                "index": 45,
+                "title": "BOOSTER: TACKLING HARMFUL FINE-TUNING FOR LARGE LANGUAGE MODELS VIA ATTENUATING HARMFUL PERTURBATION",
+                "publication_date": "2024-09-18",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "CAN A LARGE LANGUAGE MODEL BE A GASLIGHTER ?",
+            "data": {
+                "index": 47,
+                "title": "CAN A LARGE LANGUAGE MODEL BE A GASLIGHTER ?",
+                "publication_date": "2024-10-11",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": [
+                {
+                    "name": "HARNESSING TASK OVERLOAD FOR SCALABLE JAILBREAK ATTACKS ON LARGE LANGUAGE MODELS",
+                    "data": {
+                        "index": 111,
+                        "title": "HARNESSING TASK OVERLOAD FOR SCALABLE JAILBREAK ATTACKS ON LARGE LANGUAGE MODELS",
+                        "publication_date": "2024-10-05",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "PROMPT INFECTION : LLM- TO-LLM PROMPT INJECTION WITHIN MULTI-AGENT SYSTEMS",
+                    "data": {
+                        "index": 196,
+                        "title": "PROMPT INFECTION : LLM- TO-LLM PROMPT INJECTION WITHIN MULTI-AGENT SYSTEMS",
+                        "publication_date": "2024-10-09",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Can Editing LLMs Inject Harm?",
+            "data": {
+                "index": 48,
+                "title": "Can Editing LLMs Inject Harm?",
+                "publication_date": "2024-08-16",
+                "tags": [
+                    "alignment",
+                    "hallucination"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "CANLLM-Generated Misinformation Be Detected?",
+            "data": {
+                "index": 50,
+                "title": "CANLLM-Generated Misinformation Be Detected?",
+                "publication_date": "2024-01-01",
+                "tags": [
+                    "jailbreak",
+                    "hallucination",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "CAS: A PROBABILITY-BASED APPROACH FOR UNIVERSAL CONDITION ALIGNMENT SCORE",
+            "data": {
+                "index": 52,
+                "title": "CAS: A PROBABILITY-BASED APPROACH FOR UNIVERSAL CONDITION ALIGNMENT SCORE",
+                "publication_date": "2024-01-01",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "CHAIN -OF-JAILBREAK ATTACK FOR IMAGE GENERATION MODELS VIA EDITING STEP BY STEP",
+            "data": {
+                "index": 54,
+                "title": "CHAIN -OF-JAILBREAK ATTACK FOR IMAGE GENERATION MODELS VIA EDITING STEP BY STEP",
+                "publication_date": "2024-10-04",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Competition Report: Finding Universal Jailbreak Backdoors in Aligned LLMs",
+            "data": {
+                "index": 56,
+                "title": "Competition Report: Finding Universal Jailbreak Backdoors in Aligned LLMs",
+                "publication_date": "2024-06-06",
+                "tags": [
+                    "jailbreak",
+                    "alignment",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation",
+            "data": {
+                "index": 58,
+                "title": "Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation",
+                "publication_date": "2024-06-28",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "CPPO: Continual Learning for Reinforcement Learning with Human Feedback",
+            "data": {
+                "index": 59,
+                "title": "CPPO: Continual Learning for Reinforcement Learning with Human Feedback",
+                "publication_date": "2024-01-01",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Cross-Modal Safety Alignment: Is textual unlearning all you need?",
+            "data": {
+                "index": 60,
+                "title": "Cross-Modal Safety Alignment: Is textual unlearning all you need?",
+                "publication_date": "2024-05-27",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models",
+            "data": {
+                "index": 61,
+                "title": "Cross-modality Information Check for Detecting Jailbreaking in Multimodal Large Language Models",
+                "publication_date": "2024-10-17",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": [
+                {
+                    "name": "F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents",
+                    "data": {
+                        "index": 92,
+                        "title": "F2A: An Innovative Approach for Prompt Injection by Utilizing Feign Security Detection Agents",
+                        "publication_date": "2024-10-14",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                },
+                {
+                    "name": "GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation",
+                    "data": {
+                        "index": 104,
+                        "title": "GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation",
+                        "publication_date": "2024-10-15",
+                        "tags": [
+                            "jailbreak",
+                            "prompt-injection"
+                        ]
+                    },
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Cross-Task Defense: Instruction-Tuning LLMs for Content Safety",
+            "data": {
+                "index": 63,
+                "title": "Cross-Task Defense: Instruction-Tuning LLMs for Content Safety",
+                "publication_date": "2024-05-24",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Decoupled Alignment for Robust Plug-and-Play Adaptation",
+            "data": {
+                "index": 66,
+                "title": "Decoupled Alignment for Robust Plug-and-Play Adaptation",
+                "publication_date": "2024-06-06",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing",
+            "data": {
+                "index": 68,
+                "title": "Defending Large Language Models Against Jailbreak Attacks via Layer-specific Editing",
+                "publication_date": "2024-06-14",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Defending LLMs against Jailbreaking Attacks via Backtranslation",
+            "data": {
+                "index": 69,
+                "title": "Defending LLMs against Jailbreaking Attacks via Backtranslation",
+                "publication_date": "2024-08-11",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks",
+            "data": {
+                "index": 71,
+                "title": "Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks",
+                "publication_date": "2024-05-30",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Derail Yourself: Multi-Turn LLM Jailbreak Attack Through Self-Discovered Clues",
+            "data": {
+                "index": 72,
+                "title": "Derail Yourself: Multi-Turn LLM Jailbreak Attack Through Self-Discovered Clues",
+                "publication_date": "2024-10-14",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Does Refusal Training in LLMs Generalize to the Past Tense?",
+            "data": {
+                "index": 74,
+                "title": "Does Refusal Training in LLMs Generalize to the Past Tense?",
+                "publication_date": "2024-10-03",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Don’t Say No: Jailbreaking LLM by Suppressing Refusal",
+            "data": {
+                "index": 75,
+                "title": "Don’t Say No: Jailbreaking LLM by Suppressing Refusal",
+                "publication_date": "2024-10-12",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models",
+            "data": {
+                "index": 76,
+                "title": "EEG-Defender: Defending against Jailbreak through Early Exit Generation of Large Language Models",
+                "publication_date": "2024-08-21",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models",
+            "data": {
+                "index": 82,
+                "title": "Emerging Safety Attack and Defense in Federated Instruction Tuning of Large Language Models",
+                "publication_date": "2024-06-15",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Ensemble Jailbreak on Large Language Models",
+            "data": {
+                "index": 86,
+                "title": "Ensemble Jailbreak on Large Language Models",
+                "publication_date": "2024-08-07",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge",
+            "data": {
+                "index": 87,
+                "title": "Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge",
+                "publication_date": "2024-07-03",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Event-Radar: Event-driven Multi-View Learning for Multimodal Fake News Detection",
+            "data": {
+                "index": 89,
+                "title": "Event-Radar: Event-driven Multi-View Learning for Multimodal Fake News Detection",
+                "publication_date": "2024-08-16",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "FINE-TUNING ALIGNED LANGUAGE MODELS COMPROMISES SAFETY, EVEN WHEN USERS DO NOT INTEND TO!",
+            "data": {
+                "index": 97,
+                "title": "FINE-TUNING ALIGNED LANGUAGE MODELS COMPROMISES SAFETY, EVEN WHEN USERS DO NOT INTEND TO!",
+                "publication_date": "2024-04-01",
+                "tags": [
+                    "alignment",
+                    "jailbreak",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Fine-Tuning, Quantization, and LLMs: Navigating Unintended Outcomes",
+            "data": {
+                "index": 98,
+                "title": "Fine-Tuning, Quantization, and LLMs: Navigating Unintended Outcomes",
+                "publication_date": "2024-09-09",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "FLASK: Fine-Grained Language Model Evaluation Based on Alignment Skill Sets",
+            "data": {
+                "index": 99,
+                "title": "FLASK: Fine-Grained Language Model Evaluation Based on Alignment Skill Sets",
+                "publication_date": "2024-04-01",
+                "tags": [
+                    "alignment",
+                    "hallucination"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Explain LLM Safety through Intermediate Hidden States",
+            "data": {
+                "index": 115,
+                "title": "Explain LLM Safety through Intermediate Hidden States",
+                "publication_date": "2024-06-13",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Defending against Jailbreak Attacks with Hidden State Filtering",
+            "data": {
+                "index": 116,
+                "title": "Defending against Jailbreak Attacks with Hidden State Filtering",
+                "publication_date": "2024-08-31",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything",
+            "data": {
+                "index": 120,
+                "title": "Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything",
+                "publication_date": "2024-08-26",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Improved Techniques for Optimization-Based Jailbreaking on Large Language Models",
+            "data": {
+                "index": 125,
+                "title": "Improved Techniques for Optimization-Based Jailbreaking on Large Language Models",
+                "publication_date": "2024-06-05",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Improving Alignment and Robustness with Circuit Breakers",
+            "data": {
+                "index": 126,
+                "title": "Improving Alignment and Robustness with Circuit Breakers",
+                "publication_date": "2024-07-12",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Investigating the Influence of Prompt-Specific Shortcuts in AI Generated Text Detection",
+            "data": {
+                "index": 130,
+                "title": "Investigating the Influence of Prompt-Specific Shortcuts in AI Generated Text Detection",
+                "publication_date": "2024-06-24",
+                "tags": [
+                    "alignment",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Jailbreak Attacks and Defenses Against Large Language Models: A Survey",
+            "data": {
+                "index": 132,
+                "title": "Jailbreak Attacks and Defenses Against Large Language Models: A Survey",
+                "publication_date": "2024-08-30",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Jailbreak Open-Sourced Large Language Models via Enforced Decoding",
+            "data": {
+                "index": 133,
+                "title": "Jailbreak Open-Sourced Large Language Models via Enforced Decoding",
+                "publication_date": "2024-08-16",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Jailbreak Paradox : The Achilles’ Heel of LLMs",
+            "data": {
+                "index": 134,
+                "title": "Jailbreak Paradox : The Achilles’ Heel of LLMs",
+                "publication_date": "2024-06-21",
+                "tags": [
+                    "jailbreak",
+                    "alignment",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "JAILBREAKING LEADING SAFETY-ALIGNED LLMs WITH SIMPLE ADAPTIVE ATTACKS",
+            "data": {
+                "index": 141,
+                "title": "JAILBREAKING LEADING SAFETY-ALIGNED LLMs WITH SIMPLE ADAPTIVE ATTACKS",
+                "publication_date": "2024-10-07",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models",
+            "data": {
+                "index": 145,
+                "title": "JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models",
+                "publication_date": "2024-04-12",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models",
+            "data": {
+                "index": 147,
+                "title": "JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models",
+                "publication_date": "2024-07-25",
+                "tags": [
+                    "jailbreak",
+                    "alignment",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "LeCov: Multi-level Testing Criteria for Large Language Models",
+            "data": {
+                "index": 150,
+                "title": "LeCov: Multi-level Testing Criteria for Large Language Models",
+                "publication_date": "2024-08-20",
+                "tags": [
+                    "alignment",
+                    "hallucination"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "LEVERAGING BIASES IN LARGE LANGUAGE MODELS: “BIAS-KNN” FOR EFFECTIVE FEW-SHOT LEARNING",
+            "data": {
+                "index": 151,
+                "title": "LEVERAGING BIASES IN LARGE LANGUAGE MODELS: “BIAS-KNN” FOR EFFECTIVE FEW-SHOT LEARNING",
+                "publication_date": "2024-01-18",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Multi-Turn Human Jailbreaks Are Not Robust to LLM Defenses Yet",
+            "data": {
+                "index": 153,
+                "title": "Multi-Turn Human Jailbreaks Are Not Robust to LLM Defenses Yet",
+                "publication_date": "2024-09-04",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "LLM Detectors Still Fall Short of Real World: Case of LLM-Generated Short News-Like Posts",
+            "data": {
+                "index": 154,
+                "title": "LLM Detectors Still Fall Short of Real World: Case of LLM-Generated Short News-Like Posts",
+                "publication_date": "2024-09-27",
+                "tags": [
+                    "alignment",
+                    "hallucination"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "MAGE: Machine-generated Text Detection in the Wild",
+            "data": {
+                "index": 157,
+                "title": "MAGE: Machine-generated Text Detection in the Wild",
+                "publication_date": "2023-05-17",
+                "tags": [
+                    "alignment",
+                    "hallucination"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Many-shot Jailbreaking",
+            "data": {
+                "index": 159,
+                "title": "Many-shot Jailbreaking",
+                "publication_date": "2024-01-28",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "MemeCraft: Contextual and Stance-Driven Multimodal Meme Generation",
+            "data": {
+                "index": 161,
+                "title": "MemeCraft: Contextual and Stance-Driven Multimodal Meme Generation",
+                "publication_date": "2024-05-13",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Merging Improves Self-Critique Against Jailbreak Attacks",
+            "data": {
+                "index": 162,
+                "title": "Merging Improves Self-Critique Against Jailbreak Attacks",
+                "publication_date": "2024-07-14",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Mitigating Text Toxicity with Counterfactual Generation",
+            "data": {
+                "index": 163,
+                "title": "Mitigating Text Toxicity with Counterfactual Generation",
+                "publication_date": "2024-08-07",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "MLLMG UARD: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models",
+            "data": {
+                "index": 164,
+                "title": "MLLMG UARD: A Multi-dimensional Safety Evaluation Suite for Multimodal Large Language Models",
+                "publication_date": "2024-06-13",
+                "tags": [
+                    "alignment",
+                    "hallucination",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Model Merging and Safety Alignment: One Bad Model Spoils the Bunch",
+            "data": {
+                "index": 166,
+                "title": "Model Merging and Safety Alignment: One Bad Model Spoils the Bunch",
+                "publication_date": "2024-06-20",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models",
+            "data": {
+                "index": 168,
+                "title": "Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models",
+                "publication_date": "2024-08-16",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models",
+            "data": {
+                "index": 169,
+                "title": "Moderating New Waves of Online Hate with Chain-of-Thought Reasoning in Large Language Models",
+                "publication_date": "2024-05-22",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies",
+            "data": {
+                "index": 170,
+                "title": "Moderator: Moderating Text-to-Image Diffusion Models through Fine-grained Context-based Policies",
+                "publication_date": "2024-10-14",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "MoGU: A Framework for Enhancing Safety of Open-Sourced LLMs While Preserving Their Usability",
+            "data": {
+                "index": 171,
+                "title": "MoGU: A Framework for Enhancing Safety of Open-Sourced LLMs While Preserving Their Usability",
+                "publication_date": "2024-05-23",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?",
+            "data": {
+                "index": 174,
+                "title": "MOSSBench: Is Your Multimodal Language Model Oversensitive to Safe Queries?",
+                "publication_date": "2024-06-22",
+                "tags": [
+                    "alignment",
+                    "hallucination"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Multimodal Pragmatic Jailbreak on Text-to-image Models",
+            "data": {
+                "index": 176,
+                "title": "Multimodal Pragmatic Jailbreak on Text-to-image Models",
+                "publication_date": "2024-09-27",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "MULTI TRUST: A Comprehensive Benchmark Towards Trustworthy Multimodal Large Language Models",
+            "data": {
+                "index": 177,
+                "title": "MULTI TRUST: A Comprehensive Benchmark Towards Trustworthy Multimodal Large Language Models",
+                "publication_date": "2024-06-07",
+                "tags": [
+                    "alignment",
+                    "hallucination",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Optimization-based Prompt Injection Attack to LLM-as-a-Judge",
+            "data": {
+                "index": 182,
+                "title": "Optimization-based Prompt Injection Attack to LLM-as-a-Judge",
+                "publication_date": "2024-10-16",
+                "tags": [
+                    "prompt-injection",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach",
+            "data": {
+                "index": 184,
+                "title": "PathSeeker: Exploring LLM Security Vulnerabilities with a Reinforcement Learning-Based Jailbreak Approach",
+                "publication_date": "2024-10-01",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models",
+            "data": {
+                "index": 187,
+                "title": "PolygloToxicityPrompts: Multilingual Evaluation of Neural Toxic Degeneration in Large Language Models",
+                "publication_date": "2024-08-10",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Preemptive Answer “Attacks” on Chain-of-Thought Reasoning",
+            "data": {
+                "index": 188,
+                "title": "Preemptive Answer “Attacks” on Chain-of-Thought Reasoning",
+                "publication_date": "2024-05-31",
+                "tags": [
+                    "prompt-injection",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks",
+            "data": {
+                "index": 190,
+                "title": "Prefix Guidance: A Steering Wheel for Large Language Models to Defend Against Jailbreak Attacks",
+                "publication_date": "2024-08-22",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing",
+            "data": {
+                "index": 192,
+                "title": "PrimeGuard: Safe and Helpful LLMs through Tuning-Free Routing",
+                "publication_date": "2024-07-23",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Pro-Woman, Anti-Man? Identifying Gender Bias in Stance Detection",
+            "data": {
+                "index": 194,
+                "title": "Pro-Woman, Anti-Man? Identifying Gender Bias in Stance Detection",
+                "publication_date": "2024-08-11",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation",
+            "data": {
+                "index": 195,
+                "title": "Probing the Safety Response Boundary of Large Language Models via Unsafe Decoding Path Generation",
+                "publication_date": "2024-08-26",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Prompt Injection Attacks on Large Language Models in Oncology",
+            "data": {
+                "index": 198,
+                "title": "Prompt Injection Attacks on Large Language Models in Oncology",
+                "publication_date": "2024-07-23",
+                "tags": [
+                    "prompt-injection",
+                    "hallucination"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Protecting Your LLMs with Information Bottleneck",
+            "data": {
+                "index": 200,
+                "title": "Protecting Your LLMs with Information Bottleneck",
+                "publication_date": "2024-10-10",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Rag 'n Roll: An End-to-End Evaluation of Indirect Prompt Manipulations in LLM-based Application Frameworks",
+            "data": {
+                "index": 202,
+                "title": "Rag 'n Roll: An End-to-End Evaluation of Indirect Prompt Manipulations in LLM-based Application Frameworks",
+                "publication_date": "2024-08-12",
+                "tags": [
+                    "jailbreak",
+                    "prompt-injection",
+                    "hallucination"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors",
+            "data": {
+                "index": 203,
+                "title": "RAID: A Shared Benchmark for Robust Evaluation of Machine-Generated Text Detectors",
+                "publication_date": "2024-06-10",
+                "tags": [
+                    "alignment",
+                    "hallucination"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "RAIDAR: GENERATIVE AI DETECTION VIA REWRITING",
+            "data": {
+                "index": 204,
+                "title": "RAIDAR: GENERATIVE AI DETECTION VIA REWRITING",
+                "publication_date": "2024-04-14",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Read Over the Lines: Attacking LLMs and Toxicity Detection Systems with ASCII Art to Mask Profanity",
+            "data": {
+                "index": 206,
+                "title": "Read Over the Lines: Attacking LLMs and Toxicity Detection Systems with ASCII Art to Mask Profanity",
+                "publication_date": "2024-09-09",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "REDQUEEN : Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking",
+            "data": {
+                "index": 207,
+                "title": "REDQUEEN : Safeguarding Large Language Models against Concealed Multi-Turn Jailbreaking",
+                "publication_date": "2024-09-26",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Rethinking How to Evaluate Language Model Jailbreak",
+            "data": {
+                "index": 212,
+                "title": "Rethinking How to Evaluate Language Model Jailbreak",
+                "publication_date": "2024-05-07",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Robustifying Safety-Aligned Large Language Models through Clean Data Curation",
+            "data": {
+                "index": 214,
+                "title": "Robustifying Safety-Aligned Large Language Models through Clean Data Curation",
+                "publication_date": "2024-05-31",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "S-Eval: Automatic and Adaptive Test Generation for Benchmarking Safety Evaluation of Large Language Models",
+            "data": {
+                "index": 217,
+                "title": "S-Eval: Automatic and Adaptive Test Generation for Benchmarking Safety Evaluation of Large Language Models",
+                "publication_date": "2024-05-28",
+                "tags": [
+                    "alignment",
+                    "jailbreak",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Safety Alignment for Vision Language Models",
+            "data": {
+                "index": 223,
+                "title": "Safety Alignment for Vision Language Models",
+                "publication_date": "2024-05-22",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Safety Alignment Should Be Made More Than Just a Few Tokens Deep",
+            "data": {
+                "index": 224,
+                "title": "Safety Alignment Should Be Made More Than Just a Few Tokens Deep",
+                "publication_date": "2024-06-10",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?",
+            "data": {
+                "index": 228,
+                "title": "Safetywashing: Do AI Safety Benchmarks Actually Measure Safety Progress?",
+                "publication_date": "2024-07-31",
+                "tags": [
+                    "alignment",
+                    "hallucination",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Synthetic Alignment data Generation for Safety Evaluation and Red Teaming (SAGE-RT or SAGE)",
+            "data": {
+                "index": 229,
+                "title": "Synthetic Alignment data Generation for Safety Evaluation and Red Teaming (SAGE-RT or SAGE)",
+                "publication_date": "2024-08-14",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "SANDWICH ATTACK: MULTI-LANGUAGE MIXTURE ADAPTIVE ATTACK ON LLMs",
+            "data": {
+                "index": 230,
+                "title": "SANDWICH ATTACK: MULTI-LANGUAGE MIXTURE ADAPTIVE ATTACK ON LLMs",
+                "publication_date": "2024-04-09",
+                "tags": [
+                    "jailbreak",
+                    "alignment",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "SoK: Prompt Hacking of Large Language Models",
+            "data": {
+                "index": 238,
+                "title": "SoK: Prompt Hacking of Large Language Models",
+                "publication_date": "2024-10-16",
+                "tags": [
+                    "jailbreak",
+                    "alignment",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "STEER DIFF: S TEERING TOWARDS SAFE TEXT-TO-IMAGE DIFFUSION MODELS",
+            "data": {
+                "index": 243,
+                "title": "STEER DIFF: S TEERING TOWARDS SAFE TEXT-TO-IMAGE DIFFUSION MODELS",
+                "publication_date": "2024-10-03",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "SUPERFICIAL SAFETY ALIGNMENT HYPOTHESIS",
+            "data": {
+                "index": 246,
+                "title": "SUPERFICIAL SAFETY ALIGNMENT HYPOTHESIS",
+                "publication_date": "2024-10-07",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Supporting Human Raters with the Detection of Harmful Content using Large Language Models",
+            "data": {
+                "index": 247,
+                "title": "Supporting Human Raters with the Detection of Harmful Content using Large Language Models",
+                "publication_date": "2024-06-18",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "System-Level Defense against Indirect Prompt Injection Attacks: An Information Flow Control Perspective",
+            "data": {
+                "index": 248,
+                "title": "System-Level Defense against Indirect Prompt Injection Attacks: An Information Flow Control Perspective",
+                "publication_date": "2024-10-10",
+                "tags": [
+                    "prompt-injection",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "The Better Angels of Machine Personality: How Personality Relates to LLM Safety",
+            "data": {
+                "index": 250,
+                "title": "The Better Angels of Machine Personality: How Personality Relates to LLM Safety",
+                "publication_date": "2024-07-17",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions",
+            "data": {
+                "index": 252,
+                "title": "The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions",
+                "publication_date": "2024-04-19",
+                "tags": [
+                    "alignment",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Towards Understanding Unsafe Video Generation",
+            "data": {
+                "index": 256,
+                "title": "Towards Understanding Unsafe Video Generation",
+                "publication_date": "2024-07-17",
+                "tags": [
+                    "alignment",
+                    "jailbreak"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "TRAINING SOCIALLY ALIGNED LANGUAGE MODELS INSIMULATED HUMAN SOCIETY",
+            "data": {
+                "index": 258,
+                "title": "TRAINING SOCIALLY ALIGNED LANGUAGE MODELS INSIMULATED HUMAN SOCIETY",
+                "publication_date": "2023-11-14",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security",
+            "data": {
+                "index": 260,
+                "title": "Unbridled Icarus: A Survey of the Potential Perils of Image Inputs in Multimodal Large Language Model Security",
+                "publication_date": "2024-08-11",
+                "tags": [
+                    "jailbreak",
+                    "alignment",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Uncertainty-Guided Modal Rebalance for Hateful Memes Detection",
+            "data": {
+                "index": 261,
+                "title": "Uncertainty-Guided Modal Rebalance for Hateful Memes Detection",
+                "publication_date": "2024-08-11",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Universal Adversarial Triggers Are Not Universal",
+            "data": {
+                "index": 263,
+                "title": "Universal Adversarial Triggers Are Not Universal",
+                "publication_date": "2024-04-24",
+                "tags": [
+                    "jailbreak",
+                    "alignment",
+                    "prompt-injection"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images",
+            "data": {
+                "index": 268,
+                "title": "UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images",
+                "publication_date": "2024-09-05",
+                "tags": [
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "Unveiling the Implicit Toxicity in Large Language Models",
+            "data": {
+                "index": 269,
+                "title": "Unveiling the Implicit Toxicity in Large Language Models",
+                "publication_date": "2023-11-29",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "WILDTEAMING at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models",
+            "data": {
+                "index": 279,
+                "title": "WILDTEAMING at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models",
+                "publication_date": "2024-06-26",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "YOUKNOW WHAT I’MSAYING : JAILBREAK ATTACK VIA IMPLICIT REFERENCE",
+            "data": {
+                "index": 280,
+                "title": "YOUKNOW WHAT I’MSAYING : JAILBREAK ATTACK VIA IMPLICIT REFERENCE",
+                "publication_date": "2024-10-08",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        },
+        {
+            "name": "LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models",
+            "data": {
+                "index": 288,
+                "title": "LLM-Virus: Evolutionary Jailbreak Attack on Large Language Models",
+                "publication_date": "2021-08-01",
+                "tags": [
+                    "jailbreak",
+                    "alignment"
+                ]
+            },
+            "children": []
+        }
+    ]
+}
